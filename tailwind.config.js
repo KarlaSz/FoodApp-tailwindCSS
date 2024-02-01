@@ -8,8 +8,11 @@ module.exports = {
         secondary: {
           100: "#E2E2D5",
           100: "#E88883",
-        },
+        }
       },
+      fontFamily: {
+        body: ['Nunito', ]
+      }
     },
   },
   plugins: [],
